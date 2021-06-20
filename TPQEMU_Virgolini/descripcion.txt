@@ -1,0 +1,5 @@
+Descripción de ejercicio 1:
+Se busco hacer una captura de pantalla del juego "flappy bird"
+
+Descripción de ejercicio 2:
+Se animo el ejercicio anterior para que el personaje pase a través de los obstaculos
